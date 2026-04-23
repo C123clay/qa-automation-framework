@@ -1,0 +1,17 @@
+{
+  "name": "qa-automation-framework",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # QA Automation Framework\r =======\r # qa-automation-framework\r >>>>>>> 779293ca0cf8a6974032432bc1a88a1b7051c10a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
