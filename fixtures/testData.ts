@@ -8,3 +8,8 @@ export const users = {
     password: 'secret_sauce',
   },
 };
+export const checkoutData = {
+  firstName: 'Clayton',
+  lastName: 'Baggett',
+  postalCode: '37201',
+};
